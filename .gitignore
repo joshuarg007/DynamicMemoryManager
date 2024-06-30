@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#ignore pdf file
+GutierrezJoshua_CSC450_Module3.pdf
+
 # Compiled Object files
 *.slo
 *.lo
